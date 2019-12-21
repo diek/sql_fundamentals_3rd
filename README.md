@@ -1,1 +1,4 @@
-# sql_fundamentals_3rd
+## SQL Fundamentals 3rd Edn
+
+## Learning project
+
